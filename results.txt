@@ -1,0 +1,293 @@
+Epoch 1/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 88s 5s/step - accuracy: 0.7363 - loss: 0.7589 - val_accuracy: 0.8617 - val_loss: 0.4817
+Epoch 2/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.8042 - loss: 0.5867 - val_accuracy: 0.8458 - val_loss: 0.5014
+Epoch 3/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.8688 - loss: 0.4546 - val_accuracy: 0.8538 - val_loss: 0.5073
+Epoch 4/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.8417 - loss: 0.4459 - val_accuracy: 0.8498 - val_loss: 0.5044
+Epoch 5/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.9014 - loss: 0.3525 - val_accuracy: 0.8458 - val_loss: 0.4829
+Epoch 6/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 72s 5s/step - accuracy: 0.9403 - loss: 0.2744 - val_accuracy: 0.8577 - val_loss: 0.4672
+Epoch 7/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 74s 5s/step - accuracy: 0.9253 - loss: 0.2615 - val_accuracy: 0.8577 - val_loss: 0.4584
+Epoch 8/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.9431 - loss: 0.2245 - val_accuracy: 0.8617 - val_loss: 0.4569
+Epoch 9/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.9338 - loss: 0.2540 - val_accuracy: 0.8538 - val_loss: 0.4610
+Epoch 10/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.9464 - loss: 0.2310 - val_accuracy: 0.8498
+
+No global variables
+
+Epoch 1/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 99s 5s/step - accuracy: 0.6780 - loss: 0.9428 - val_accuracy: 0.8261 - val_loss: 0.4992
+Epoch 2/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 79s 5s/step - accuracy: 0.7559 - loss: 0.7112 - val_accuracy: 0.8340 - val_loss: 0.4913
+Epoch 3/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8028 - loss: 0.6334 - val_accuracy: 0.8419 - val_loss: 0.4798
+Epoch 4/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8259 - loss: 0.5683 - val_accuracy: 0.8419 - val_loss: 0.4666
+Epoch 5/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8472 - loss: 0.5070 - val_accuracy: 0.8538 - val_loss: 0.4597
+Epoch 6/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.8910 - loss: 0.4420 - val_accuracy: 0.8696 - val_loss: 0.4522
+Epoch 7/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.8916 - loss: 0.4129 - val_accuracy: 0.8696 - val_loss: 0.4519
+Epoch 8/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8969 - loss: 0.3841 - val_accuracy: 0.8735 - val_loss: 0.4495
+
+MAX_EPOCH_RUN_1 = 8
+MAX_EPOCH_RUN_2 = 8
+layers.RandomContrast(0.025),
+dino_predictions1
+
+Epoch 1/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 100s 5s/step - accuracy: 0.5012 - loss: 1.3746 - val_accuracy: 0.7391 - val_loss: 0.8061
+Epoch 2/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 81s 5s/step - accuracy: 0.6153 - loss: 1.1772 - val_accuracy: 0.7352 - val_loss: 0.7621
+Epoch 3/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.6643 - loss: 1.0961 - val_accuracy: 0.7431 - val_loss: 0.7204
+Epoch 4/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 78s 5s/step - accuracy: 0.7023 - loss: 1.0117 - val_accuracy: 0.7668 - val_loss: 0.6836
+Epoch 5/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 78s 5s/step - accuracy: 0.7445 - loss: 0.9077 - val_accuracy: 0.7787 - val_loss: 0.6613
+Epoch 6/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.7614 - loss: 0.8417 - val_accuracy: 0.8063 - val_loss: 0.6252
+Epoch 7/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 72s 4s/step - accuracy: 0.8052 - loss: 0.7802 - val_accuracy: 0.8221 - val_loss: 0.6022
+Epoch 8/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 72s 4s/step - accuracy: 0.8272 - loss: 0.7331 - val_accuracy: 0.8142 - val_loss: 0.5841
+
+MAX_EPOCH_RUN_1 = 8
+MAX_EPOCH_RUN_2 = 8
+BATCH_SIZE = 64
+IMAGE_SIZE = (224, 224)
+IMAGE_SIZE_2 = 224
+VALIDATION_SPLIT = 0.2
+RANDOM_ROTATION = 0.1
+RANDOM_ZOOM = 0.1
+RANDOM_CONTRAST = 0.05
+INITIAL_LEARNING_RATE = 0.0001
+DECAY_STEPS = 100
+DECAY_RATE = 0.95
+STAIRCASE = True
+FINE_TUNE_AT = 100
+
+Epoch 1/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 84s 4s/step - accuracy: 0.5549 - loss: 1.3244 - val_accuracy: 0.7154 - val_loss: 0.8809
+Epoch 2/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.5929 - loss: 1.1735 - val_accuracy: 0.7194 - val_loss: 0.8231
+Epoch 3/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.6333 - loss: 1.0942 - val_accuracy: 0.7233 - val_loss: 0.7752
+Epoch 4/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.7074 - loss: 0.9781 - val_accuracy: 0.7470 - val_loss: 0.7327
+Epoch 5/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.7366 - loss: 0.8944 - val_accuracy: 0.7826 - val_loss: 0.7066
+Epoch 6/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.7760 - loss: 0.8010 - val_accuracy: 0.7905 - val_loss: 0.6627
+Epoch 7/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.7660 - loss: 0.7939 - val_accuracy: 0.7984 - val_loss: 0.6313
+Epoch 8/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 74s 5s/step - accuracy: 0.8078 - loss: 0.7304 - val_accuracy: 0.8063 - val_loss: 0.6053
+
+MAX_EPOCH_RUN_1 = 8
+MAX_EPOCH_RUN_2 = 8
+BATCH_SIZE = 64
+IMAGE_SIZE = (224, 224)
+IMAGE_SIZE_2 = 224
+VALIDATION_SPLIT = 0.2
+RANDOM_ROTATION = 0.1
+RANDOM_ZOOM = 0.1
+RANDOM_CONTRAST = 0
+INITIAL_LEARNING_RATE = 0.0001
+DECAY_STEPS = 100
+DECAY_RATE = 0.95
+STAIRCASE = True
+FINE_TUNE_AT = 100
+
+Epoch 1/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 91s 5s/step - accuracy: 0.5348 - loss: 1.3463 - val_accuracy: 0.7352 - val_loss: 0.8043
+Epoch 2/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.6198 - loss: 1.2034 - val_accuracy: 0.7589 - val_loss: 0.7532
+Epoch 3/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.6643 - loss: 1.0847 - val_accuracy: 0.7787 - val_loss: 0.7099
+Epoch 4/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.7120 - loss: 0.9681 - val_accuracy: 0.7945 - val_loss: 0.6787
+Epoch 5/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.7667 - loss: 0.8969 - val_accuracy: 0.7984 - val_loss: 0.6551
+Epoch 6/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.7759 - loss: 0.8249 - val_accuracy: 0.8024 - val_loss: 0.6270
+Epoch 7/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.7820 - loss: 0.7790 - val_accuracy: 0.8182 - val_loss: 0.6042
+Epoch 8/8
+16/16 ━━━━━━━━━━━━━━━━━━━━ 73s 5s/step - accuracy: 0.7959 - loss: 0.7211 - val_accuracy: 0.8182 - val_loss: 0.5785
+
+MAX_EPOCH_RUN_1 = 8
+MAX_EPOCH_RUN_2 = 8
+BATCH_SIZE = 64
+IMAGE_SIZE = (224, 224)
+IMAGE_SIZE_2 = 224
+VALIDATION_SPLIT = 0.2
+RANDOM_ROTATION = 0.1
+RANDOM_ZOOM = 0.1
+RANDOM_CONTRAST = 0.025
+INITIAL_LEARNING_RATE = 0.0001
+DECAY_STEPS = 100
+DECAY_RATE = 0.95
+STAIRCASE = True
+FINE_TUNE_AT = 100
+
+Epoch 1/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 101s 5s/step - accuracy: 0.6036 - loss: 1.1710 - val_accuracy: 0.8261 - val_loss: 0.5956
+Epoch 2/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 80s 5s/step - accuracy: 0.6252 - loss: 1.0579 - val_accuracy: 0.8221 - val_loss: 0.5770
+Epoch 3/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 79s 5s/step - accuracy: 0.7305 - loss: 0.9168 - val_accuracy: 0.8261 - val_loss: 0.5615
+Epoch 4/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 79s 5s/step - accuracy: 0.7353 - loss: 0.8628 - val_accuracy: 0.8340 - val_loss: 0.5532
+Epoch 5/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 81s 5s/step - accuracy: 0.7543 - loss: 0.8051 - val_accuracy: 0.8340 - val_loss: 0.5347
+Epoch 6/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.7965 - loss: 0.7098 - val_accuracy: 0.8419 - val_loss: 0.5206
+Epoch 7/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.8177 - loss: 0.6609 - val_accuracy: 0.8498 - val_loss: 0.5069
+Epoch 8/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8328 - loss: 0.6349 - val_accuracy: 0.8538 - val_loss: 0.4939
+Epoch 9/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8494 - loss: 0.5781 - val_accuracy: 0.8498 - val_loss: 0.4894
+Epoch 10/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8628 - loss: 0.5195 - val_accuracy: 0.8538 - val_loss: 0.4801
+Epoch 11/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8646 - loss: 0.5129 - val_accuracy: 0.8577 - val_loss: 0.4736
+Epoch 12/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8629 - loss: 0.4793 - val_accuracy: 0.8538 - val_loss: 0.4644
+Epoch 13/13
+16/16 ━━━━━━━━━━━━━━━━━━━━ 78s 5s/step - accuracy: 0.9023 - loss: 0.4186 - val_accuracy: 0.8538 - val_loss: 0.4604
+
+MAX_EPOCH_RUN_1 = 13
+MAX_EPOCH_RUN_2 = 13
+BATCH_SIZE = 64
+IMAGE_SIZE = (224, 224)
+IMAGE_SIZE_2 = 224
+VALIDATION_SPLIT = 0.2
+RANDOM_ROTATION = 0.1
+RANDOM_ZOOM = 0.1
+RANDOM_CONTRAST = 0.025
+INITIAL_LEARNING_RATE = 0.0001
+DECAY_STEPS = 100
+DECAY_RATE = 0.95
+STAIRCASE = True
+FINE_TUNE_AT = 100
+
+dino_predictions2
+
+Epoch 1/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 106s 5s/step - accuracy: 0.5808 - loss: 1.1890 - val_accuracy: 0.7787 - val_loss: 0.6568
+Epoch 2/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 78s 5s/step - accuracy: 0.6571 - loss: 1.0416 - val_accuracy: 0.7787 - val_loss: 0.6297
+Epoch 3/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 78s 5s/step - accuracy: 0.7064 - loss: 0.9717 - val_accuracy: 0.7945 - val_loss: 0.6092
+Epoch 4/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 79s 5s/step - accuracy: 0.7133 - loss: 0.8861 - val_accuracy: 0.8063 - val_loss: 0.5829
+Epoch 5/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.7710 - loss: 0.7783 - val_accuracy: 0.8221 - val_loss: 0.5644
+Epoch 6/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 78s 5s/step - accuracy: 0.7752 - loss: 0.7390 - val_accuracy: 0.8261 - val_loss: 0.5510
+Epoch 7/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8246 - loss: 0.6459 - val_accuracy: 0.8340 - val_loss: 0.5393
+Epoch 8/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8316 - loss: 0.6075 - val_accuracy: 0.8458 - val_loss: 0.5265
+Epoch 9/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8412 - loss: 0.5793 - val_accuracy: 0.8498 - val_loss: 0.5184
+Epoch 10/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8783 - loss: 0.4899 - val_accuracy: 0.8498 - val_loss: 0.5167
+
+MAX_EPOCH_RUN_1 = 12
+MAX_EPOCH_RUN_2 = 10
+BATCH_SIZE = 64
+IMAGE_SIZE = (224, 224)
+IMAGE_SIZE_2 = 224
+VALIDATION_SPLIT = 0.2
+RANDOM_ROTATION = 0.1
+RANDOM_ZOOM = 0.1
+RANDOM_CONTRAST = 0.1
+INITIAL_LEARNING_RATE = 0.0001
+DECAY_STEPS = 100
+DECAY_RATE = 0.95
+STAIRCASE = True
+FINE_TUNE_AT = 100
+
+Epoch 1/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 101s 5s/step - accuracy: 0.5908 - loss: 1.1972 - val_accuracy: 0.8063 - val_loss: 0.6291
+Epoch 2/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.6735 - loss: 1.0842 - val_accuracy: 0.8261 - val_loss: 0.6050
+Epoch 3/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.7265 - loss: 0.9907 - val_accuracy: 0.8379 - val_loss: 0.5881
+Epoch 4/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.7463 - loss: 0.9023 - val_accuracy: 0.8340 - val_loss: 0.5662
+Epoch 5/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.7673 - loss: 0.8207 - val_accuracy: 0.8300 - val_loss: 0.5478
+Epoch 6/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8129 - loss: 0.7326 - val_accuracy: 0.8340 - val_loss: 0.5296
+Epoch 7/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 75s 5s/step - accuracy: 0.8305 - loss: 0.6624 - val_accuracy: 0.8379 - val_loss: 0.5163
+Epoch 8/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8298 - loss: 0.6427 - val_accuracy: 0.8538 - val_loss: 0.5059
+Epoch 9/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 76s 5s/step - accuracy: 0.8338 - loss: 0.6058 - val_accuracy: 0.8498 - val_loss: 0.4923
+Epoch 10/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 77s 5s/step - accuracy: 0.8781 - loss: 0.5378 - val_accuracy: 0.8458 - val_loss: 0.4857
+
+----- extra Dense(128, activation='relu'),
+MAX_EPOCH_RUN_1 = 12
+MAX_EPOCH_RUN_2 = 10
+BATCH_SIZE = 64
+IMAGE_SIZE = (224, 224)
+IMAGE_SIZE_2 = 224
+VALIDATION_SPLIT = 0.2
+RANDOM_ROTATION = 0.1
+RANDOM_ZOOM = 0.1
+RANDOM_CONTRAST = 0.1
+INITIAL_LEARNING_RATE = 0.0001
+DECAY_STEPS = 100
+DECAY_RATE = 0.95
+STAIRCASE = True
+FINE_TUNE_AT = 100
+
+Epoch 1/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 375s 22s/step - accuracy: 0.6886 - loss: 1.0145 - val_accuracy: 0.8538 - val_loss: 0.6476
+Epoch 2/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 324s 20s/step - accuracy: 0.7695 - loss: 0.8154 - val_accuracy: 0.8498 - val_loss: 0.5865
+Epoch 3/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 317s 20s/step - accuracy: 0.8124 - loss: 0.7278 - val_accuracy: 0.8656 - val_loss: 0.5274
+Epoch 4/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 341s 21s/step - accuracy: 0.8231 - loss: 0.6671 - val_accuracy: 0.8814 - val_loss: 0.4799
+Epoch 5/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 334s 21s/step - accuracy: 0.8792 - loss: 0.5314 - val_accuracy: 0.8933 - val_loss: 0.4438
+Epoch 6/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 388s 24s/step - accuracy: 0.8653 - loss: 0.5075 - val_accuracy: 0.8972 - val_loss: 0.4224
+Epoch 7/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 364s 23s/step - accuracy: 0.8939 - loss: 0.4540 - val_accuracy: 0.9051 - val_loss: 0.3966
+Epoch 8/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 361s 23s/step - accuracy: 0.9080 - loss: 0.3952 - val_accuracy: 0.8854 - val_loss: 0.3863
+Epoch 9/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 360s 23s/step - accuracy: 0.9219 - loss: 0.3405 - val_accuracy: 0.9170 - val_loss: 0.3669
+Epoch 10/10
+16/16 ━━━━━━━━━━━━━━━━━━━━ 363s 22s/step - accuracy: 0.9319 - loss: 0.3309 - val_accuracy: 0.9091 - val_loss: 0.3629
+
+MAX_EPOCH_RUN_1 = 14
+MAX_EPOCH_RUN_2 = 10
+BATCH_SIZE = 64
+IMAGE_SIZE = (448, 448)
+IMAGE_SIZE_2 = 448
+VALIDATION_SPLIT = 0.2
+RANDOM_ROTATION = 0.1
+RANDOM_ZOOM = 0.1
+RANDOM_CONTRAST = 0.1
+INITIAL_LEARNING_RATE = 0.0001
+DECAY_STEPS = 100
+DECAY_RATE = 0.95
+STAIRCASE = True
+FINE_TUNE_AT = 100
