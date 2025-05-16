@@ -1,0 +1,5 @@
+python -m venv .venv
+.\.venv\Scripts\activate
+Select the interpreter in VSCode:
+• Click on the Python version in the status bar  select the interpreter in your .venv
+folder.
